@@ -1,0 +1,15 @@
+/Users/ekaterinamusarieva/progkorp/calculator/bin/Debug/net9.0/calculator
+/Users/ekaterinamusarieva/progkorp/calculator/bin/Debug/net9.0/calculator.deps.json
+/Users/ekaterinamusarieva/progkorp/calculator/bin/Debug/net9.0/calculator.runtimeconfig.json
+/Users/ekaterinamusarieva/progkorp/calculator/bin/Debug/net9.0/calculator.dll
+/Users/ekaterinamusarieva/progkorp/calculator/bin/Debug/net9.0/calculator.pdb
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.AssemblyInfoInputs.cache
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.AssemblyInfo.cs
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.csproj.CoreCompileInputs.cache
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.sourcelink.json
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.dll
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/refint/calculator.dll
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.pdb
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/calculator.genruntimeconfig.cache
+/Users/ekaterinamusarieva/progkorp/calculator/obj/Debug/net9.0/ref/calculator.dll
